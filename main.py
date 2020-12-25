@@ -7,4 +7,4 @@ counter_j = 0
 text_for_person = support.parse_csv(f)
 f.close()
 
-dialogue.dialogue_table(counter_i)
+dialogue.dialogue_table(text_for_person)

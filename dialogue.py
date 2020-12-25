@@ -1,5 +1,5 @@
 def input_str():
-    return input('')
+    return str(input())
 
 
 def var_check(counter_i, counter_j, text_for_person, var, opt):
